@@ -1,3 +1,10 @@
-Hello world, let me introduce myself. Just call me Zen yo!~
+#### Recent Github Activity
 
-*Coming Soon*
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+#### Code Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
