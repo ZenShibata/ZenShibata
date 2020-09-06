@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com//zhycorp/zhycorp.js/pull/8) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
-2. 💪 Opened PR [#7](https://github.com//zhycorp/zhycorp.js/pull/7) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
-3. 🎉 Merged PR [#2](https://github.com//KurokuTetsuya/zhycorp.js/pull/2) in [KurokuTetsuya/zhycorp.js](https://github.com//KurokuTetsuya/zhycorp.js)
-4. 🎉 Merged PR [#1](https://github.com//KurokuTetsuya/zhycorp.js/pull/1) in [KurokuTetsuya/zhycorp.js](https://github.com//KurokuTetsuya/zhycorp.js)
-5. 🗣 Commented on [#5](https://github.com//zhycorp/zhycorp.js/issues/5) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+1. 💪 Opened PR [#9](https://github.com//zhycorp/zhycorp.js/pull/9) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+2. 💪 Opened PR [#8](https://github.com//zhycorp/zhycorp.js/pull/8) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+3. 💪 Opened PR [#7](https://github.com//zhycorp/zhycorp.js/pull/7) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+4. 🎉 Merged PR [#2](https://github.com//KurokuTetsuya/zhycorp.js/pull/2) in [KurokuTetsuya/zhycorp.js](https://github.com//KurokuTetsuya/zhycorp.js)
+5. 🎉 Merged PR [#1](https://github.com//KurokuTetsuya/zhycorp.js/pull/1) in [KurokuTetsuya/zhycorp.js](https://github.com//KurokuTetsuya/zhycorp.js)
 <!--END_SECTION:activity-->
 
 
