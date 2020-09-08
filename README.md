@@ -31,7 +31,6 @@
 <!--START_SECTION:waka-->
 ```text
 CSS    7 mins          ███████████████████████▒░   93.76 % 
-HTML   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 ```
 <!--END_SECTION:waka-->
 
