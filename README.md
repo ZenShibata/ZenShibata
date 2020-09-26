@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com//mdbootstrap/mdb-ui-kit/issues/14) in [mdbootstrap/mdb-ui-kit](https://github.com//mdbootstrap/mdb-ui-kit)
-2. 💪 Opened PR [#29](https://github.com//zhycorp/node-zhycorp/pull/29) in [zhycorp/node-zhycorp](https://github.com//zhycorp/node-zhycorp)
-3. 💪 Opened PR [#28](https://github.com//zhycorp/node-zhycorp/pull/28) in [zhycorp/node-zhycorp](https://github.com//zhycorp/node-zhycorp)
-4. 🗣 Commented on [#485](https://github.com//discordjs/guide/issues/485) in [discordjs/guide](https://github.com//discordjs/guide)
-5. 💪 Opened PR [#485](https://github.com//discordjs/guide/pull/485) in [discordjs/guide](https://github.com//discordjs/guide)
+1. ❗️ Opened issue [#14](https://github.com/mdbootstrap/mdb-ui-kit/issues/14) in [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit)
+2. 💪 Opened PR [#29](https://github.com/zhycorp/node-zhycorp/pull/29) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
+3. 💪 Opened PR [#28](https://github.com/zhycorp/node-zhycorp/pull/28) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
+4. 🗣 Commented on [#485](https://github.com/discordjs/guide/issues/485) in [discordjs/guide](https://github.com/discordjs/guide)
+5. 💪 Opened PR [#485](https://github.com/discordjs/guide/pull/485) in [discordjs/guide](https://github.com/discordjs/guide)
 <!--END_SECTION:activity-->
 
 
