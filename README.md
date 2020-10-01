@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/shidoitsuka/hi-hacktoberfest/pull/2) in [shidoitsuka/hi-hacktoberfest](https://github.com/shidoitsuka/hi-hacktoberfest)
-2. ❗️ Opened issue [#14](https://github.com/mdbootstrap/mdb-ui-kit/issues/14) in [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit)
-3. 💪 Opened PR [#29](https://github.com/zhycorp/node-zhycorp/pull/29) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
-4. 💪 Opened PR [#28](https://github.com/zhycorp/node-zhycorp/pull/28) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
-5. 🗣 Commented on [#485](https://github.com/discordjs/guide/issues/485) in [discordjs/guide](https://github.com/discordjs/guide)
+1. 🎉 Merged PR [#2](https://github.com/KurokuTetsuya/zenn.me/pull/2) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+2. 💪 Opened PR [#2](https://github.com/KurokuTetsuya/zenn.me/pull/2) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+3. 💪 Opened PR [#438](https://github.com/acmbvp/Hacktoberfest/pull/438) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
+4. 🎉 Merged PR [#1](https://github.com/KurokuTetsuya/zenn.me/pull/1) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+5. 💪 Opened PR [#1](https://github.com/KurokuTetsuya/zenn.me/pull/1) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
 <!--END_SECTION:activity-->
 
 
