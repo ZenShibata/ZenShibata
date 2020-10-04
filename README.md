@@ -20,9 +20,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
 2. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
-3. 💪 Opened PR [#1](https://github.com/KurokuTetsuya/frutbits-website-svelte/pull/1) in [KurokuTetsuya/frutbits-website-svelte](https://github.com/KurokuTetsuya/frutbits-website-svelte)
-4. 🎉 Merged PR [#2](https://github.com/KurokuTetsuya/zenn.me/pull/2) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
-5. 💪 Opened PR [#2](https://github.com/KurokuTetsuya/zenn.me/pull/2) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+3. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
+4. 💪 Opened PR [#1](https://github.com/KurokuTetsuya/frutbits-website-svelte/pull/1) in [KurokuTetsuya/frutbits-website-svelte](https://github.com/KurokuTetsuya/frutbits-website-svelte)
+5. 🎉 Merged PR [#2](https://github.com/KurokuTetsuya/zenn.me/pull/2) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
 <!--END_SECTION:activity-->
 
 
