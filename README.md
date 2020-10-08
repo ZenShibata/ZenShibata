@@ -18,9 +18,9 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
-2. 🗣 Commented on [#485](https://github.com/discordjs/guide/issues/485) in [discordjs/guide](https://github.com/discordjs/guide)
-3. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
+1. 🎉 Merged PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+2. 💪 Opened PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+3. 🗣 Commented on [#485](https://github.com/discordjs/guide/issues/485) in [discordjs/guide](https://github.com/discordjs/guide)
 4. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
 5. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
 <!--END_SECTION:activity-->
