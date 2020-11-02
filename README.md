@@ -30,9 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-EJS          11 mins         ███████████████░░░░░░░░░░   60.00 % 
-JavaScript   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
-Docker       3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
