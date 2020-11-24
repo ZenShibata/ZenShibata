@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/zhycorp/disc-11/issues/61) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-2. 🎉 Merged PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
-3. 💪 Opened PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
-4. 🗣 Commented on [#485](https://github.com/discordjs/guide/issues/485) in [discordjs/guide](https://github.com/discordjs/guide)
-5. 🗣 Commented on [#49](https://github.com/zhycorp/music-bot-example/issues/49) in [zhycorp/music-bot-example](https://github.com/zhycorp/music-bot-example)
+1. 🗣 Commented on [#2258](https://github.com/discord/discord-api-docs/issues/2258) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#61](https://github.com/zhycorp/disc-11/issues/61) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
+3. 🎉 Merged PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+4. 💪 Opened PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+5. 🗣 Commented on [#485](https://github.com/discordjs/guide/issues/485) in [discordjs/guide](https://github.com/discordjs/guide)
 <!--END_SECTION:activity-->
 
 
