@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/KurokuTetsuya/slash-bot/pull/6) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-2. 🗣 Commented on [#2258](https://github.com/discord/discord-api-docs/issues/2258) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#61](https://github.com/zhycorp/disc-11/issues/61) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-4. 🎉 Merged PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
-5. 💪 Opened PR [#3](https://github.com/KurokuTetsuya/zenn.me/pull/3) in [KurokuTetsuya/zenn.me](https://github.com/KurokuTetsuya/zenn.me)
+1. 🗣 Commented on [#10](https://github.com/KurokuTetsuya/slash-bot/issues/10) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+2. 💪 Opened PR [#10](https://github.com/KurokuTetsuya/slash-bot/pull/10) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+3. 🎉 Merged PR [#6](https://github.com/KurokuTetsuya/slash-bot/pull/6) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+4. 🗣 Commented on [#2258](https://github.com/discord/discord-api-docs/issues/2258) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 🗣 Commented on [#61](https://github.com/zhycorp/disc-11/issues/61) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
 <!--END_SECTION:activity-->
 
 
