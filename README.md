@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/KurokuTetsuya/slash-bot/issues/13) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-2. ❗️ Opened issue [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-3. 🗣 Commented on [#12](https://github.com/KurokuTetsuya/slash-bot/issues/12) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-4. 🗣 Commented on [#12](https://github.com/KurokuTetsuya/slash-bot/issues/12) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-5. 💪 Opened PR [#12](https://github.com/KurokuTetsuya/slash-bot/pull/12) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+1. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+2. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+3. 🗣 Commented on [#13](https://github.com/KurokuTetsuya/slash-bot/issues/13) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+4. ❗️ Opened issue [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+5. 🗣 Commented on [#12](https://github.com/KurokuTetsuya/slash-bot/issues/12) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
 <!--END_SECTION:activity-->
 
 
