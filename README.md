@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-2. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-3. 🗣 Commented on [#13](https://github.com/KurokuTetsuya/slash-bot/issues/13) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-4. ❗️ Opened issue [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-5. 🗣 Commented on [#12](https://github.com/KurokuTetsuya/slash-bot/issues/12) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+1. 🗣 Commented on [#300](https://github.com/Hazmi35/jukebox/issues/300) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+2. 🗣 Commented on [#300](https://github.com/Hazmi35/jukebox/issues/300) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+3. 💪 Opened PR [#300](https://github.com/Hazmi35/jukebox/pull/300) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+4. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+5. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
 <!--END_SECTION:activity-->
 
 
