@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/KurokuTetsuya/slash-bot/issues/17) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-2. 🗣 Commented on [#18](https://github.com/KurokuTetsuya/slash-bot/issues/18) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-3. 🗣 Commented on [#16](https://github.com/KurokuTetsuya/slash-bot/issues/16) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-4. 🗣 Commented on [#300](https://github.com/Hazmi35/jukebox/issues/300) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-5. 🗣 Commented on [#300](https://github.com/Hazmi35/jukebox/issues/300) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+1. 🗣 Commented on [#103](https://github.com/zhycorp/node-zhycorp/issues/103) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
+2. 💪 Opened PR [#104](https://github.com/zhycorp/node-zhycorp/pull/104) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
+3. 🗣 Commented on [#17](https://github.com/KurokuTetsuya/slash-bot/issues/17) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+4. 🗣 Commented on [#18](https://github.com/KurokuTetsuya/slash-bot/issues/18) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+5. 🗣 Commented on [#16](https://github.com/KurokuTetsuya/slash-bot/issues/16) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
 <!--END_SECTION:activity-->
 
 
