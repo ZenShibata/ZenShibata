@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2741](https://github.com/PreMiD/Presences/pull/2741) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 💪 Opened PR [#2740](https://github.com/PreMiD/Presences/pull/2740) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. 🗣 Commented on [#2737](https://github.com/PreMiD/Presences/issues/2737) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. 💪 Opened PR [#2737](https://github.com/PreMiD/Presences/pull/2737) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 🗣 Commented on [#103](https://github.com/zhycorp/node-zhycorp/issues/103) in [zhycorp/node-zhycorp](https://github.com/zhycorp/node-zhycorp)
+1. 🗣 Commented on [#2740](https://github.com/PreMiD/Presences/issues/2740) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 🗣 Commented on [#2741](https://github.com/PreMiD/Presences/issues/2741) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 💪 Opened PR [#2741](https://github.com/PreMiD/Presences/pull/2741) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 💪 Opened PR [#2740](https://github.com/PreMiD/Presences/pull/2740) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. 🗣 Commented on [#2737](https://github.com/PreMiD/Presences/issues/2737) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 
