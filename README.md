@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 💪 Opened PR [#2759](https://github.com/PreMiD/Presences/pull/2759) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 2. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 3. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. 💪 Opened PR [#2749](https://github.com/PreMiD/Presences/pull/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 🗣 Commented on [#2741](https://github.com/PreMiD/Presences/issues/2741) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. 💪 Opened PR [#2749](https://github.com/PreMiD/Presences/pull/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 
