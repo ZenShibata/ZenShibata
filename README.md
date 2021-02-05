@@ -18,10 +18,10 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ZenForks/jukebox/pull/1) in [ZenForks/jukebox](https://github.com/ZenForks/jukebox)
-2. 💪 Opened PR [#2759](https://github.com/PreMiD/Presences/pull/2759) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 🎉 Merged PR [#3](https://github.com/ZenForks/jukebox/pull/3) in [ZenForks/jukebox](https://github.com/ZenForks/jukebox)
+2. 🎉 Merged PR [#2](https://github.com/ZenForks/jukebox/pull/2) in [ZenForks/jukebox](https://github.com/ZenForks/jukebox)
+3. 🎉 Merged PR [#1](https://github.com/ZenForks/jukebox/pull/1) in [ZenForks/jukebox](https://github.com/ZenForks/jukebox)
+4. 💪 Opened PR [#2759](https://github.com/PreMiD/Presences/pull/2759) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 5. 🗣 Commented on [#2749](https://github.com/PreMiD/Presences/issues/2749) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
