@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
-2. 🗣 Commented on [#10](https://github.com/j0lv3r4/next-csrf/issues/10) in [j0lv3r4/next-csrf](https://github.com/j0lv3r4/next-csrf)
-3. 🗣 Commented on [#3165](https://github.com/PreMiD/Presences/issues/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. 💪 Opened PR [#3165](https://github.com/PreMiD/Presences/pull/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 🎉 Merged PR [#5](https://github.com/ZenForks/jukebox/pull/5) in [ZenForks/jukebox](https://github.com/ZenForks/jukebox)
+2. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
+3. 🗣 Commented on [#10](https://github.com/j0lv3r4/next-csrf/issues/10) in [j0lv3r4/next-csrf](https://github.com/j0lv3r4/next-csrf)
+4. 🗣 Commented on [#3165](https://github.com/PreMiD/Presences/issues/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. 💪 Opened PR [#3165](https://github.com/PreMiD/Presences/pull/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 
