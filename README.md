@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
+1. ❌ Closed PR [#485](https://github.com/discordjs/guide/pull/485) in [discordjs/guide](https://github.com/discordjs/guide)
 2. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
-3. 🗣 Commented on [#10](https://github.com/j0lv3r4/next-csrf/issues/10) in [j0lv3r4/next-csrf](https://github.com/j0lv3r4/next-csrf)
-4. 🗣 Commented on [#3165](https://github.com/PreMiD/Presences/issues/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 💪 Opened PR [#3165](https://github.com/PreMiD/Presences/pull/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
+4. 🗣 Commented on [#10](https://github.com/j0lv3r4/next-csrf/issues/10) in [j0lv3r4/next-csrf](https://github.com/j0lv3r4/next-csrf)
+5. 🗣 Commented on [#3165](https://github.com/PreMiD/Presences/issues/3165) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 
