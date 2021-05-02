@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-2. ❗️ Opened issue [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-3. ❌ Closed PR [#485](https://github.com/discordjs/guide/pull/485) in [discordjs/guide](https://github.com/discordjs/guide)
-4. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
-5. 🗣 Commented on [#914](https://github.com/nuxt-community/auth-module/issues/914) in [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module)
+1. ❗️ Opened issue [#452](https://github.com/Hazmi35/jukebox/issues/452) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+2. ❗️ Opened issue [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+3. 🗣 Commented on [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+4. ❗️ Opened issue [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+5. ❌ Closed PR [#485](https://github.com/discordjs/guide/pull/485) in [discordjs/guide](https://github.com/discordjs/guide)
 <!--END_SECTION:activity-->
 
 
