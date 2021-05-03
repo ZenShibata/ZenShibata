@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#452](https://github.com/Hazmi35/jukebox/issues/452) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-2. ❗️ Opened issue [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-3. 🗣 Commented on [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-4. ❗️ Opened issue [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-5. ❌ Closed PR [#485](https://github.com/discordjs/guide/pull/485) in [discordjs/guide](https://github.com/discordjs/guide)
+1. 🗣 Commented on [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+2. ❗️ Opened issue [#452](https://github.com/Hazmi35/jukebox/issues/452) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+3. ❗️ Opened issue [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+4. 🗣 Commented on [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+5. ❗️ Opened issue [#414](https://github.com/Hazmi35/jukebox/issues/414) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
 <!--END_SECTION:activity-->
 
 
