@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#292](https://github.com/zhycorp/disc-11/pull/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-2. 🗣 Commented on [#292](https://github.com/zhycorp/disc-11/issues/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-3. 💪 Opened PR [#292](https://github.com/zhycorp/disc-11/pull/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-4. 🗣 Commented on [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
-5. ❗️ Opened issue [#452](https://github.com/Hazmi35/jukebox/issues/452) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+1. ❗️ Opened issue [#1](https://github.com/KurokuTetsuya/coffee-shop/issues/1) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
+2. ❌ Closed PR [#292](https://github.com/zhycorp/disc-11/pull/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
+3. 🗣 Commented on [#292](https://github.com/zhycorp/disc-11/issues/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
+4. 💪 Opened PR [#292](https://github.com/zhycorp/disc-11/pull/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
+5. 🗣 Commented on [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
 <!--END_SECTION:activity-->
 
 
