@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/KurokuTetsuya/coffee-shop/issues/1) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
-2. ❌ Closed PR [#292](https://github.com/zhycorp/disc-11/pull/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-3. 🗣 Commented on [#292](https://github.com/zhycorp/disc-11/issues/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-4. 💪 Opened PR [#292](https://github.com/zhycorp/disc-11/pull/292) in [zhycorp/disc-11](https://github.com/zhycorp/disc-11)
-5. 🗣 Commented on [#451](https://github.com/Hazmi35/jukebox/issues/451) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+1. ❗️ Opened issue [#4](https://github.com/KurokuTetsuya/coffee-shop/issues/4) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
+2. ❗️ Closed issue [#2](https://github.com/KurokuTetsuya/coffee-shop/issues/2) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
+3. ❗️ Opened issue [#3](https://github.com/KurokuTetsuya/coffee-shop/issues/3) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
+4. ❗️ Closed issue [#1](https://github.com/KurokuTetsuya/coffee-shop/issues/1) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
+5. ❗️ Opened issue [#2](https://github.com/KurokuTetsuya/coffee-shop/issues/2) in [KurokuTetsuya/coffee-shop](https://github.com/KurokuTetsuya/coffee-shop)
 <!--END_SECTION:activity-->
 
 
