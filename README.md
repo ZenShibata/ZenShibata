@@ -31,7 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 22 mins    ██████████████████████░░░   87.36 %
+Lua          11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
