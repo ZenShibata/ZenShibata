@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/zhycorp/venti/pull/10) in [zhycorp/venti](https://github.com/zhycorp/venti)
-2. 🎉 Merged PR [#9](https://github.com/zhycorp/venti/pull/9) in [zhycorp/venti](https://github.com/zhycorp/venti)
-3. 🎉 Merged PR [#6](https://github.com/zhycorp/venti/pull/6) in [zhycorp/venti](https://github.com/zhycorp/venti)
-4. 🎉 Merged PR [#2](https://github.com/zhycorp/template/pull/2) in [zhycorp/template](https://github.com/zhycorp/template)
-5. 🎉 Merged PR [#5](https://github.com/zhycorp/venti/pull/5) in [zhycorp/venti](https://github.com/zhycorp/venti)
+1. 🎉 Merged PR [#12](https://github.com/zhycorp/venti/pull/12) in [zhycorp/venti](https://github.com/zhycorp/venti)
+2. 🎉 Merged PR [#11](https://github.com/zhycorp/venti/pull/11) in [zhycorp/venti](https://github.com/zhycorp/venti)
+3. 🎉 Merged PR [#10](https://github.com/zhycorp/venti/pull/10) in [zhycorp/venti](https://github.com/zhycorp/venti)
+4. 🎉 Merged PR [#9](https://github.com/zhycorp/venti/pull/9) in [zhycorp/venti](https://github.com/zhycorp/venti)
+5. 🎉 Merged PR [#6](https://github.com/zhycorp/venti/pull/6) in [zhycorp/venti](https://github.com/zhycorp/venti)
 <!--END_SECTION:activity-->
 
 
