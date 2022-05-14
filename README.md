@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/zhycorp/sapphire-plugins/pull/11) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-2. 🗣 Commented on [#7](https://github.com/zhycorp/sapphire-plugins/issues/7) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-3. 🎉 Merged PR [#3](https://github.com/zhycorp/sapphire-plugins/pull/3) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-4. ❌ Closed PR [#2](https://github.com/zhycorp/sapphire-plugins/pull/2) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-5. ❌ Closed PR [#18](https://github.com/zhycorp/venti/pull/18) in [zhycorp/venti](https://github.com/zhycorp/venti)
+1. 🎉 Merged PR [#3](https://github.com/zhycorp/template/pull/3) in [zhycorp/template](https://github.com/zhycorp/template)
+2. 🎉 Merged PR [#11](https://github.com/zhycorp/sapphire-plugins/pull/11) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
+3. 🗣 Commented on [#7](https://github.com/zhycorp/sapphire-plugins/issues/7) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
+4. 🎉 Merged PR [#3](https://github.com/zhycorp/sapphire-plugins/pull/3) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
+5. ❌ Closed PR [#2](https://github.com/zhycorp/sapphire-plugins/pull/2) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
 <!--END_SECTION:activity-->
 
 
