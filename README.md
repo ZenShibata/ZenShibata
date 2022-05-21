@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ZenForks/wings/pull/1) in [ZenForks/wings](https://github.com/ZenForks/wings)
-2. 💪 Opened PR [#1](https://github.com/ZenForks/wings/pull/1) in [ZenForks/wings](https://github.com/ZenForks/wings)
-3. 🎉 Merged PR [#3](https://github.com/zhycorp/template/pull/3) in [zhycorp/template](https://github.com/zhycorp/template)
-4. 🎉 Merged PR [#11](https://github.com/zhycorp/sapphire-plugins/pull/11) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-5. 🗣 Commented on [#7](https://github.com/zhycorp/sapphire-plugins/issues/7) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
+1. 🎉 Merged PR [#5](https://github.com/zhycorp/template/pull/5) in [zhycorp/template](https://github.com/zhycorp/template)
+2. 🎉 Merged PR [#1](https://github.com/ZenForks/wings/pull/1) in [ZenForks/wings](https://github.com/ZenForks/wings)
+3. 💪 Opened PR [#1](https://github.com/ZenForks/wings/pull/1) in [ZenForks/wings](https://github.com/ZenForks/wings)
+4. 🎉 Merged PR [#3](https://github.com/zhycorp/template/pull/3) in [zhycorp/template](https://github.com/zhycorp/template)
+5. 🎉 Merged PR [#11](https://github.com/zhycorp/sapphire-plugins/pull/11) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
 <!--END_SECTION:activity-->
 
 
