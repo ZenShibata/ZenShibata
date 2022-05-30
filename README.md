@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/zhycorp/venti/pull/31) in [zhycorp/venti](https://github.com/zhycorp/venti)
-2. 🎉 Merged PR [#30](https://github.com/zhycorp/venti/pull/30) in [zhycorp/venti](https://github.com/zhycorp/venti)
-3. 💪 Opened PR [#30](https://github.com/zhycorp/venti/pull/30) in [zhycorp/venti](https://github.com/zhycorp/venti)
-4. 🎉 Merged PR [#22](https://github.com/zhycorp/sapphire-plugins/pull/22) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-5. 🎉 Merged PR [#20](https://github.com/zhycorp/sapphire-plugins/pull/20) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
+1. 🎉 Merged PR [#23](https://github.com/zhycorp/sapphire-plugins/pull/23) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
+2. 🎉 Merged PR [#3](https://github.com/zhycorp/pterodactyl-images/pull/3) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+3. 🎉 Merged PR [#8](https://github.com/zhycorp/template/pull/8) in [zhycorp/template](https://github.com/zhycorp/template)
+4. 🎉 Merged PR [#32](https://github.com/zhycorp/venti/pull/32) in [zhycorp/venti](https://github.com/zhycorp/venti)
+5. ❌ Closed PR [#31](https://github.com/zhycorp/venti/pull/31) in [zhycorp/venti](https://github.com/zhycorp/venti)
 <!--END_SECTION:activity-->
 
 
