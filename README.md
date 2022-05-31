@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/zhycorp/.github/pull/1) in [zhycorp/.github](https://github.com/zhycorp/.github)
-2. 💪 Opened PR [#1](https://github.com/zhycorp/.github/pull/1) in [zhycorp/.github](https://github.com/zhycorp/.github)
-3. 🎉 Merged PR [#23](https://github.com/zhycorp/sapphire-plugins/pull/23) in [zhycorp/sapphire-plugins](https://github.com/zhycorp/sapphire-plugins)
-4. 🎉 Merged PR [#3](https://github.com/zhycorp/pterodactyl-images/pull/3) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-5. 🎉 Merged PR [#8](https://github.com/zhycorp/template/pull/8) in [zhycorp/template](https://github.com/zhycorp/template)
+1. 🎉 Merged PR [#5](https://github.com/zhycorp/pterodactyl-images/pull/5) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+2. 💪 Opened PR [#5](https://github.com/zhycorp/pterodactyl-images/pull/5) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+3. 🎉 Merged PR [#2](https://github.com/zhycorp/staff-readme/pull/2) in [zhycorp/staff-readme](https://github.com/zhycorp/staff-readme)
+4. 💪 Opened PR [#2](https://github.com/zhycorp/staff-readme/pull/2) in [zhycorp/staff-readme](https://github.com/zhycorp/staff-readme)
+5. 🎉 Merged PR [#1](https://github.com/zhycorp/.github/pull/1) in [zhycorp/.github](https://github.com/zhycorp/.github)
 <!--END_SECTION:activity-->
 
 
