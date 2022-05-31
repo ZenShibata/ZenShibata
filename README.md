@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/zhycorp/pterodactyl-images/pull/6) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-2. 🎉 Merged PR [#5](https://github.com/zhycorp/pterodactyl-images/pull/5) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-3. 💪 Opened PR [#5](https://github.com/zhycorp/pterodactyl-images/pull/5) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-4. 🎉 Merged PR [#2](https://github.com/zhycorp/staff-readme/pull/2) in [zhycorp/staff-readme](https://github.com/zhycorp/staff-readme)
-5. 💪 Opened PR [#2](https://github.com/zhycorp/staff-readme/pull/2) in [zhycorp/staff-readme](https://github.com/zhycorp/staff-readme)
+1. 🎉 Merged PR [#7](https://github.com/zhycorp/pterodactyl-images/pull/7) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+2. 💪 Opened PR [#7](https://github.com/zhycorp/pterodactyl-images/pull/7) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+3. 🎉 Merged PR [#6](https://github.com/zhycorp/pterodactyl-images/pull/6) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+4. 💪 Opened PR [#6](https://github.com/zhycorp/pterodactyl-images/pull/6) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+5. 🎉 Merged PR [#5](https://github.com/zhycorp/pterodactyl-images/pull/5) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
 <!--END_SECTION:activity-->
 
 
