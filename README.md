@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/zhycorp/venti/issues/36) in [zhycorp/venti](https://github.com/zhycorp/venti)
-2. 🎉 Merged PR [#7](https://github.com/zhycorp/pterodactyl-images/pull/7) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-3. 💪 Opened PR [#7](https://github.com/zhycorp/pterodactyl-images/pull/7) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-4. 🎉 Merged PR [#6](https://github.com/zhycorp/pterodactyl-images/pull/6) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
-5. 💪 Opened PR [#6](https://github.com/zhycorp/pterodactyl-images/pull/6) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+2. 🗣 Commented on [#36](https://github.com/zhycorp/venti/issues/36) in [zhycorp/venti](https://github.com/zhycorp/venti)
+3. 🎉 Merged PR [#7](https://github.com/zhycorp/pterodactyl-images/pull/7) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+4. 💪 Opened PR [#7](https://github.com/zhycorp/pterodactyl-images/pull/7) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
+5. 🎉 Merged PR [#6](https://github.com/zhycorp/pterodactyl-images/pull/6) in [zhycorp/pterodactyl-images](https://github.com/zhycorp/pterodactyl-images)
 <!--END_SECTION:activity-->
 
 
