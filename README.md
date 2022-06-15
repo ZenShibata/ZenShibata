@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/frutbits/sapphire-plugins/pull/36) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
-2. 🎉 Merged PR [#35](https://github.com/frutbits/sapphire-plugins/pull/35) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
-3. ❌ Closed PR [#3](https://github.com/frutbits/docs/pull/3) in [frutbits/docs](https://github.com/frutbits/docs)
-4. 🎉 Merged PR [#12](https://github.com/frutbits/docs/pull/12) in [frutbits/docs](https://github.com/frutbits/docs)
-5. 🎉 Merged PR [#4](https://github.com/frutbits/staff-readme/pull/4) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
+1. 🎉 Merged PR [#36](https://github.com/frutbits/sapphire-plugins/pull/36) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
+2. 💪 Opened PR [#36](https://github.com/frutbits/sapphire-plugins/pull/36) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
+3. 🎉 Merged PR [#35](https://github.com/frutbits/sapphire-plugins/pull/35) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
+4. ❌ Closed PR [#3](https://github.com/frutbits/docs/pull/3) in [frutbits/docs](https://github.com/frutbits/docs)
+5. 🎉 Merged PR [#12](https://github.com/frutbits/docs/pull/12) in [frutbits/docs](https://github.com/frutbits/docs)
 <!--END_SECTION:activity-->
 
 
