@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/frutbits/staff-readme/pull/5) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
-2. 🎉 Merged PR [#45](https://github.com/frutbits/venti/pull/45) in [frutbits/venti](https://github.com/frutbits/venti)
-3. 🎉 Merged PR [#36](https://github.com/frutbits/sapphire-plugins/pull/36) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
-4. 💪 Opened PR [#36](https://github.com/frutbits/sapphire-plugins/pull/36) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
-5. 🎉 Merged PR [#35](https://github.com/frutbits/sapphire-plugins/pull/35) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
+1. 🎉 Merged PR [#13](https://github.com/frutbits/template/pull/13) in [frutbits/template](https://github.com/frutbits/template)
+2. 🎉 Merged PR [#13](https://github.com/frutbits/docs/pull/13) in [frutbits/docs](https://github.com/frutbits/docs)
+3. 🎉 Merged PR [#7](https://github.com/frutbits/staff-readme/pull/7) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
+4. 🎉 Merged PR [#47](https://github.com/frutbits/venti/pull/47) in [frutbits/venti](https://github.com/frutbits/venti)
+5. 🎉 Merged PR [#40](https://github.com/frutbits/sapphire-plugins/pull/40) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
 <!--END_SECTION:activity-->
 
 
