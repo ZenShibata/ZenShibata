@@ -18,11 +18,11 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/frutbits/.github/pull/2) in [frutbits/.github](https://github.com/frutbits/.github)
-2. 🎉 Merged PR [#4](https://github.com/frutbits/renovate-config/pull/4) in [frutbits/renovate-config](https://github.com/frutbits/renovate-config)
-3. 🎉 Merged PR [#2](https://github.com/frutbits/renovate-config/pull/2) in [frutbits/renovate-config](https://github.com/frutbits/renovate-config)
-4. 🎉 Merged PR [#13](https://github.com/frutbits/template/pull/13) in [frutbits/template](https://github.com/frutbits/template)
-5. 🎉 Merged PR [#13](https://github.com/frutbits/docs/pull/13) in [frutbits/docs](https://github.com/frutbits/docs)
+1. 🎉 Merged PR [#8](https://github.com/frutbits/staff-readme/pull/8) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
+2. 🎉 Merged PR [#2](https://github.com/frutbits/.github/pull/2) in [frutbits/.github](https://github.com/frutbits/.github)
+3. 🎉 Merged PR [#4](https://github.com/frutbits/renovate-config/pull/4) in [frutbits/renovate-config](https://github.com/frutbits/renovate-config)
+4. 🎉 Merged PR [#2](https://github.com/frutbits/renovate-config/pull/2) in [frutbits/renovate-config](https://github.com/frutbits/renovate-config)
+5. 🎉 Merged PR [#13](https://github.com/frutbits/template/pull/13) in [frutbits/template](https://github.com/frutbits/template)
 <!--END_SECTION:activity-->
 
 
