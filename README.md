@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/-Instagram-7339B0?style=for-the-badge&logoColor=white&logo=instagram"/></a>
 </p>
 
-<br/>
-
 ### 📊 GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#49](https://github.com/frutbits/venti/pull/49) in [frutbits/venti](https://github.com/frutbits/venti)
