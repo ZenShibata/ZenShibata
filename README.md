@@ -14,11 +14,11 @@
 
 ### 📊 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/frutbits/venti/pull/56) in [frutbits/venti](https://github.com/frutbits/venti)
-2. 🎉 Merged PR [#49](https://github.com/frutbits/venti/pull/49) in [frutbits/venti](https://github.com/frutbits/venti)
-3. 🎉 Merged PR [#16](https://github.com/frutbits/docs/pull/16) in [frutbits/docs](https://github.com/frutbits/docs)
-4. 🎉 Merged PR [#9](https://github.com/frutbits/staff-readme/pull/9) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
-5. 🎉 Merged PR [#48](https://github.com/frutbits/venti/pull/48) in [frutbits/venti](https://github.com/frutbits/venti)
+1. 🎉 Merged PR [#83](https://github.com/frutbits/venti/pull/83) in [frutbits/venti](https://github.com/frutbits/venti)
+2. 💪 Opened PR [#83](https://github.com/frutbits/venti/pull/83) in [frutbits/venti](https://github.com/frutbits/venti)
+3. 🎉 Merged PR [#49](https://github.com/frutbits/sapphire-plugins/pull/49) in [frutbits/sapphire-plugins](https://github.com/frutbits/sapphire-plugins)
+4. 🎉 Merged PR [#78](https://github.com/frutbits/venti/pull/78) in [frutbits/venti](https://github.com/frutbits/venti)
+5. ❌ Closed PR [#69](https://github.com/frutbits/venti/pull/69) in [frutbits/venti](https://github.com/frutbits/venti)
 <!--END_SECTION:activity-->
 
 ![ZenShibata's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=ZenShibata&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
