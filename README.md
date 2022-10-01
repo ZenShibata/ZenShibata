@@ -14,11 +14,11 @@
 
 ### 📊 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ZenShibata/mangroverse/pull/1) in [ZenShibata/mangroverse](https://github.com/ZenShibata/mangroverse)
-2. 💪 Opened PR [#1](https://github.com/ZenShibata/mangroverse/pull/1) in [ZenShibata/mangroverse](https://github.com/ZenShibata/mangroverse)
-3. 🎉 Merged PR [#96](https://github.com/frutbits/venti/pull/96) in [frutbits/venti](https://github.com/frutbits/venti)
-4. 🎉 Merged PR [#1](https://github.com/Anime-World-Indonesia/chitoge/pull/1) in [Anime-World-Indonesia/chitoge](https://github.com/Anime-World-Indonesia/chitoge)
-5. 💪 Opened PR [#1](https://github.com/Anime-World-Indonesia/chitoge/pull/1) in [Anime-World-Indonesia/chitoge](https://github.com/Anime-World-Indonesia/chitoge)
+1. ❗️ Opened issue [#8](https://github.com/ZenShibata/mangroverse/issues/8) in [ZenShibata/mangroverse](https://github.com/ZenShibata/mangroverse)
+2. 🎉 Merged PR [#38](https://github.com/frutbits/staff-readme/pull/38) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
+3. ❗️ Opened issue [#7](https://github.com/ZenShibata/mangroverse/issues/7) in [ZenShibata/mangroverse](https://github.com/ZenShibata/mangroverse)
+4. ❗️ Opened issue [#6](https://github.com/ZenShibata/mangroverse/issues/6) in [ZenShibata/mangroverse](https://github.com/ZenShibata/mangroverse)
+5. ❗️ Opened issue [#5](https://github.com/ZenShibata/mangroverse/issues/5) in [ZenShibata/mangroverse](https://github.com/ZenShibata/mangroverse)
 <!--END_SECTION:activity-->
 
 ![ZenShibata's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=ZenShibata&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
