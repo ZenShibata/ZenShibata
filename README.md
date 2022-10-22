@@ -14,11 +14,11 @@
 
 ### 📊 GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Anime-World-Indonesia/chitoge/pull/2) in [Anime-World-Indonesia/chitoge](https://github.com/Anime-World-Indonesia/chitoge)
-2. 🎉 Merged PR [#16](https://github.com/frutbits/images/pull/16) in [frutbits/images](https://github.com/frutbits/images)
-3. 🎉 Merged PR [#18](https://github.com/frutbits/images/pull/18) in [frutbits/images](https://github.com/frutbits/images)
-4. 🎉 Merged PR [#17](https://github.com/frutbits/images/pull/17) in [frutbits/images](https://github.com/frutbits/images)
-5. 🎉 Merged PR [#45](https://github.com/frutbits/staff-readme/pull/45) in [frutbits/staff-readme](https://github.com/frutbits/staff-readme)
+1. 🎉 Merged PR [#3](https://github.com/Anime-World-Indonesia/chitoge/pull/3) in [Anime-World-Indonesia/chitoge](https://github.com/Anime-World-Indonesia/chitoge)
+2. 🎉 Merged PR [#2](https://github.com/Anime-World-Indonesia/chitoge/pull/2) in [Anime-World-Indonesia/chitoge](https://github.com/Anime-World-Indonesia/chitoge)
+3. 🎉 Merged PR [#16](https://github.com/frutbits/images/pull/16) in [frutbits/images](https://github.com/frutbits/images)
+4. 🎉 Merged PR [#18](https://github.com/frutbits/images/pull/18) in [frutbits/images](https://github.com/frutbits/images)
+5. 🎉 Merged PR [#17](https://github.com/frutbits/images/pull/17) in [frutbits/images](https://github.com/frutbits/images)
 <!--END_SECTION:activity-->
 
 ![ZenShibata's github stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=ZenShibata&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
