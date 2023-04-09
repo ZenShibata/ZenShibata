@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/roU0naz.png">
+<img src="https://i.imgur.com/p8fzT7N.jpg">
 <h2 align="center"> Hi there, I'm Zen</h2>
 <p align="center">I live in <b>Indonesia 🇮🇩</b> and doing coding just for fun, currently learning TypeScript <img align="center" alt="Typescript" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" /> and do some JavaScript <img align="center" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> things.</p>
 
