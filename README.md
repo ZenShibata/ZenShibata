@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/p8fzT7N.jpg">
-<h2 align="center"> Hi there, I'm Zen</h2>
+<h2 align="center"> Hi there, I'm Fuyuki Satou (佐藤冬木)</h2>
 <p align="center">I live in <b>Indonesia 🇮🇩</b> and doing coding just for fun, currently learning TypeScript <img align="center" alt="Typescript" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" /> and do some JavaScript <img align="center" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> things.</p>
 
 <br />
@@ -27,5 +27,5 @@
 ![ZenShibata's github stats](https://activity-graph.herokuapp.com/graph?username=ZenShibata&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ### 📚 Top Repository
-  <a href="https://github.com/frutbits/venti"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frutbits&repo=venti&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/frutbits/sapphire-plugins"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frutbits&repo=sapphire-plugins&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
+  <a href="https://github.com/kakushindev/venti"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kakushindev&repo=venti&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/kakushindev/sapphire-plugins"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kakushindev&repo=sapphire-plugins&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
